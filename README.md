@@ -1,2 +1,2 @@
 # password-generator
-Password Generator in HTML, CSS &amp; JavaScript. This is a random password generator with options.
+Password Generator in  Vanila JavaScript, HTML &amp; CSS. This is a random password generator with options.
